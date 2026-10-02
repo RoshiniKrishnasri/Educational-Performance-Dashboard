@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit local runtime
+.streamlit/secrets.toml
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Database temporary files
+*.sqlite3-journal
+*.db-journal
+
+# Temporary / Scratch logs
+*.log
+scratch/
